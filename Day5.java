@@ -6,10 +6,10 @@ public static void main(String[] args) {
     int password = 12345678;
     long nomor = 6285236860044L;
 
-   System.out.println("umur");
-   System.out.println("tahun");
-   System.out.println("password");
-   System.out.println("nomor");
+   System.out.println("umur :"+umur);
+   System.out.println("tahun :"+tahun);
+   System.out.println("password :"+password);
+   System.out.println("nomor :"+nomor);
 
    }
 
