@@ -3,9 +3,9 @@ public class day17 {
         int a = 7;
         int b = 6;
 
-         int hasil = a % b;
+         int Modulus = a % b;
 
-        System.out.println("Hasil : " + hasil);
+        System.out.println("Hasil : " + Modulus);
 
    }
 
