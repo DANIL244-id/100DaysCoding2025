@@ -10,7 +10,8 @@ public class day18 {
   double a_double = a_int;
 
   System.out.println("int ke double: "+a_double);
-
+  System.out.printf("int ke double: %.2f\n",a_double);
+  
  }
 
 }
