@@ -5,7 +5,7 @@ public class day19 {
    Scanner input = new Scanner(System.in);
    
    System.out.println("masukkan int = ");
-   long nilai_long = input.nextLine();
+   long nilai_long = input.nextLong();
    byte nilai_byte = (byte) nilai_long;
 
   System.out.println("nilai long = " + nilai_long);
