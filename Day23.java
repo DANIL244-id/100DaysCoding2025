@@ -9,7 +9,7 @@ import java.util.Scanner;
         int lebar = input.nextInt();
 
         int luas = panjang * lebar;
-        System.out.println("Luas persegi panjang: ");
+        System.out.println("Luas persegi panjang: " +luas);
 
   }
 
