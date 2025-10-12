@@ -5,7 +5,7 @@ public class day35 {
     System.out.print("Masukkan nilai : ");
     int nilai = input.nextInt();
     if (nilai < 0 || nilai > 100) {
-        System.out.println("NILAI TIDAK VALId!");
+        System.out.println("NILAI TIDAK VALID!");
     }else if (nilai >= 70) {
         System.out.println("LULUS");
     }else {
