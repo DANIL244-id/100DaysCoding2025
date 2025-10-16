@@ -8,7 +8,7 @@ public class day39 {
     System.out.println("2. Paccal");
     System.out.println("3. Buras");
     System.out.println("4. Jepa");
-    System.out.println("Silahkan pilih menu (1-4) : ");
+    System.out.print("Silahkan pilih menu (1-4) : ");
     int pilih = input.nextInt();
     if (pilih == 1) {
         System.out.println("Anda memilih Jalan kote");
