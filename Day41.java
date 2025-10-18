@@ -33,7 +33,8 @@ public class day41 {
                 } 
                
             }else if (porsi <= 2) {
-                if (t_porsi > 50000){
+                System.out.println("jumlah: "+porsi);
+              if (t_porsi > 50000){
                     diskon = t_porsi * 0.05;
                     total_diskon = t_porsi - diskon;
                     System.out.println("total harga = "+total_diskon);
@@ -59,7 +60,8 @@ public class day41 {
                 } 
                
             }else if (porsi <= 2) {
-                if (t_porsi > 50000){
+                System.out.println("jumlah: "+porsi);
+              if (t_porsi > 50000){
                     diskon = t_porsi * 0.05;
                     total_diskon = t_porsi - diskon;
                     System.out.println("total harga = "+total_diskon);
@@ -83,7 +85,8 @@ public class day41 {
                 } 
                
             }else if (porsi <= 2) {
-                if (t_porsi > 50000) {
+                System.out.println("jumlah: "+porsi);
+              if (t_porsi > 50000) {
                     diskon = t_porsi * 0.05;
                     total_diskon = t_porsi - diskon;
                     System.out.println("total harga = "+total_diskon);
