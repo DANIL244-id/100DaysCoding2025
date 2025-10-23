@@ -3,10 +3,10 @@ public class day46 {
   public static void main (String[] args) {
     Scanner input = new Scanner(System.in);
     System.out.println("=== DAFTAR MENU ===");
-    System.out.println("1. Bakso");
-    System.out.println("2. Mie ayam");
-    System.out.println("3. Ayam kecap");
-    System.out.println("4. Ayam geprek");
+    System.out.println("1. Bakso       : Rp10.000");
+    System.out.println("2. Mie ayam    : Rp12.000");
+    System.out.println("3. Ayam kecap  : Rp11.000");
+    System.out.println("4. Ayam geprek : Rp10.000");
     
     System.out.print("Masukkan menu pilihan(1-4) : ");
     int menu = input.nextInt();
