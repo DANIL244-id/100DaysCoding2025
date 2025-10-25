@@ -4,7 +4,7 @@ public class day48 {
     Scanner input = new Scanner(System.in);
         System.out.print("Masukkan angka pertama : ");
         double angka = input.nextDouble();
-        System.out.print("Masukkan operator      : ");
+        System.out.print("Masukkan operator (+, -, *, /) : ");
         char op = input.next().charAt(0);
         System.out.print("Masukkan angka kedua   : ");
         double angka2 = input.nextDouble();
