@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class day89 {
+public class day90 {
   public static void main (String[] args) {
     String s = salam();
     System.out.println(s);
